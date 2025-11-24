@@ -7,13 +7,14 @@
 
 > Deep Learning-based weather forecasting system for Pakistani cities using LSTM neural networks
 
-![Project Banner](docs/images/banner.png)
+![Project Banner](docs/images/Screenshot 2025-11-23 215422.png)
 
 ---
 
 ## 📋 Table of Contents
 
 - [Overview](#overview)
+- [Dataset](#dataset)
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
@@ -41,6 +42,10 @@ This project implements a **multivariate LSTM neural network** to forecast next-
 - ✅ **Production Ready**: Saved models, scalers, and deployment code
 
 ---
+### Download Dataset
+1. Go to [Kaggle - Pakistan Weather Data](https://www.kaggle.com/datasets/...)
+2. Download `pakistan_weather.csv`
+3. Place in `data/raw/` directory
 
 ## ✨ Features
 
