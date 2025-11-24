@@ -7,8 +7,6 @@
 
 > Deep Learning-based weather forecasting system for Pakistani cities using LSTM neural networks
 
-![Project Banner](docs/images/Screenshot 2025-11-23 215422.png)
-
 ---
 
 ## 📋 Table of Contents
